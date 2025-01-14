@@ -1,5 +1,4 @@
 # Salary_Function
-*BAN6420 Module 2 Assignment*
 
 ## Overview
 This project provides a Python script to process employee salary data. It includes functions to retrieve employee details, export the retrieved employee detail to a CSV file, and compress the file into a zipped folder. Additionally, there’s an R script provided to unzip the folder and display the employee data.
